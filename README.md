@@ -4,24 +4,31 @@
 
 
 
-<p align="center">
-👋 Hi, I’m @mshumayl! 👋
+<p align="left">
+👋 Hi, I’m Shumayl!
+</p>
+
+<p align="left">
+🎓 BSc. in Applied Physics
 </p>
 
 
-<p align="center">
-🌐 I’m interested in data science and physics. 🌐
+<p align="left">
+❤️ Data science, semiconductor tech, renewable energy
 </p>
 
 
-<p align="center">
-🌱 I’m currently learning Keras, Tensorflow, and MLOps. 🌱
+<p align="left">
+🌱 Currently learning MLOps pipelines for deployment
 </p>
 
 
-<p align="center">
-📫 You can reach me at @Shumayl Asmawi on LinkedIn. 📫
+<p align="left">
+
+📫 You can reach me at [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/) on LinkedIn
+    
 </p>
+
 
 
 <!---
