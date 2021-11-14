@@ -1,25 +1,25 @@
 <p align="center">
-    ABOUT ME
+    <h1>About Me</h1>
 </p>
 
 
 
 <p align="left">
-👋 Hi, I’m Shumayl!
+👋 Hi, I’m Shumayl! I am a semiconductor process engineer.
 </p>
 
 <p align="left">
-🎓 BSc. in Applied Physics
-</p>
-
-
-<p align="left">
-❤️ Data science, semiconductor tech, renewable energy
+🎓 BSc. in Applied Physics (Nanotechnology)
 </p>
 
 
 <p align="left">
-🌱 Currently learning MLOps pipelines for deployment
+❤️ Process data analytics, machine learning, semiconductor technology, statistical process control.
+</p>
+
+
+<p align="left">
+🌱 Developing tools, programs, and pipelines for smarter data workflows. 
 </p>
 
 
