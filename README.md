@@ -5,7 +5,7 @@
 
 
 <p align="left">
-👋 Hi, I’m Shumayl! I am a semiconductor process engineer
+👋 Hi, I’m Shumayl. I am a semiconductor process engineer.
 </p>
 
 <p align="left">
@@ -14,18 +14,18 @@
 
 
 <p align="left">
-❤️ Process data analytics, machine learning, semiconductor technology, statistical process control
+❤️ Process data analytics, manufacturing digitalization, machine learning, semiconductor technology.
 </p>
 
 
 <p align="left">
-🌱 Developing tools, programs, and pipelines for smarter data workflows
+🌱 Developing tools, programs, and pipelines for smarter data workflows.
 </p>
 
 
 <p align="left">
 
-📫 You can reach me at [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/) on LinkedIn
+📫 You can reach me at [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/) on LinkedIn.
     
 </p>
 
