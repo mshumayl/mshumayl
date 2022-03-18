@@ -5,7 +5,7 @@
 
 
 <p align="left">
-👋 Hi, I’m Shumayl. I am a semiconductor process engineer.
+👋 Hi, I’m Shumayl. I am a process engineer.
 </p>
 
 <p align="left">
