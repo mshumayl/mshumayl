@@ -2,12 +2,6 @@
     <h1>About Me</h1>
 </p>
 
-
-
-<p align="left">
-👋 Hi, I’m Shumayl. I am a process engineer.
-</p>
-
 <p align="left">
 🎓 BSc. in Applied Physics (Nanotechnology)
 </p>
