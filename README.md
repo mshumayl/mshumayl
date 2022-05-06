@@ -8,12 +8,12 @@
 
 
 <p align="left">
-❤️ Process data analytics, manufacturing digitalization, machine learning, semiconductor physics.
+❤️ Process data analytics, manufacturing digitalization, machine learning, computational physics.
 </p>
 
 
 <p align="left">
-🌱 Developing tools, programs, pipelines, and workflows for semiconductor manufacturing data.
+🌱 Developing tools, programs, pipelines, and workflows for data from manufacturing processes.
 </p>
 
 
