@@ -13,7 +13,7 @@
 
 
 <p align="left">
-🌱 Developing tools, programs, pipelines, and workflows for manufacturing data.
+🌱 Developing tools, programs, pipelines, and workflows for semiconductor manufacturing data.
 </p>
 
 
