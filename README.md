@@ -3,9 +3,12 @@
 </p>
 
 <p align="left">
-🎓 BSc. in Applied Physics (Nanotechnology)
+🖥️ Systems Developer (Digitalization) at HP Inc.
 </p>
 
+<p align="left">
+🎓 BSc. in Applied Physics (Nanotechnology)
+</p>
 
 <p align="left">
 ❤️ Process data analytics, manufacturing digitalization, machine learning, computational physics.
