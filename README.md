@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-🖥️ Systems Developer (Digitalization) at HP Inc.
+🖥️ Systems Developer (Digital Transformation) at HP Inc.
 </p>
 
 <p align="left">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-❤️ Process data analytics, manufacturing digitalization, machine learning, computational physics.
+❤️ Data analytics, manufacturing digitalization, machine learning, computational physics.
 </p>
 
 
