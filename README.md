@@ -26,7 +26,9 @@
     
 </p>
 
-
+<p align="left">
+✒️ I also write about the cool stuff I learn over on [my website](https://www.shumayl.com). 
+</p>
 
 <!---
 A GitHub profile readme.
