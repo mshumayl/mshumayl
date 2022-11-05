@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>About Me</h1>
+    <h1>Shumayl Asmawi - mshumayl</h1>
 </p>
 
 <p align="left">
@@ -7,27 +7,21 @@
 </p>
 
 <p align="left">
-🎓 BSc. in Applied Physics (Nanotechnology)
+🎓 BSc. in Applied Physics.
 </p>
 
 <p align="left">
-❤️ Data analytics, manufacturing digitalization, machine learning, computational physics.
+✒️ I write about the cool stuff I learn over on https://www.shumayl.com/. 
 </p>
-
-
+<hr/>
 <p align="left">
-🌱 Developing tools, programs, pipelines, and workflows for data from manufacturing processes.
+Mastodon: <a rel="me" href="https://fosstodon.org/@shumayl">@shumayl@fosstodon.org</a>
 </p>
-
-
 <p align="left">
-
-📫 You can reach me at [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/) on LinkedIn.
-    
+Twitter: https://twitter.com/Shumayl_
 </p>
-
 <p align="left">
-✒️ I also write about the cool stuff I learn over on https://www.shumayl.com/. 
+    LinkedIn: <a href="https://www.linkedin.com/in/shumayl-111/">Shumayl Asmawi</a>  
 </p>
 
 <!---
