@@ -1,7 +1,6 @@
 <h1 align="center">About</h1>
 <p align="center">
     👨‍💻 Junior Systems Engineer at HP Inc 👨‍💻<br/>
-    ✒️ I write on <a href="https://www.shumayl.com/">shumayl.com</a> ✒️<br/>
 </p>
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshumayl&theme=github_dark"></img>
