@@ -1,7 +1,6 @@
 <h1 align="center">About</h1>
 <p align="center">
-    👨‍💻 Systems Engineer at HP Inc 👨‍💻<br/>
-    🎓 BSc. in Applied Physics 🎓<br/>
+    👨‍💻 Junior Systems Engineer at HP Inc 👨‍💻<br/>
     ✒️ I write on <a href="https://www.shumayl.com/">shumayl.com</a> ✒️<br/>
 </p>
 <p align="center">
