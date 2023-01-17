@@ -1,10 +1,10 @@
 <h1 align="center">About</h1>
 <p align="center">
     👨‍💻 Junior Systems Engineer at HP Inc 👨‍💻<br/>
+    🖋️ Writes about everything tech on <a href="https://www.shumayl.com">Shumayl.com</a> 🖋️
 </p>
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshumayl&theme=github_dark"></img>
-    
 </p>
 
 <h1 align="center">Open source</h1>
