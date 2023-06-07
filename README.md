@@ -1,6 +1,6 @@
 <h1 align="center">About</h1>
 <p align="center">
-    <h4 align="center">👨‍💻 Junior Systems Engineer at HP Inc. 👨‍💻</h4>
+    <h4 align="center">👨‍💻 Systems Engineer at HP Inc. 👨‍💻</h4>
     <h4 align="center">🛠️ Creator of <a href="https://www.ai-daleel.com/">AI-Daleel</a> 🛠️</h4>
     <h4 align="center">⌨️ Writes about tech and coding on <a href="https://www.shumayl.com/">shumayl.com</a> ⌨️</h4><br/>
 </p>
